@@ -1,0 +1,91 @@
+{
+  "pets": [
+    {
+      "nome": "Jake",
+      "idade": 11,
+      "raca": "YorkShire",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "05-04-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Maria",
+      "idade": 5,
+      "raca": "Albino",
+      "tipo": "lobo",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": [
+        {
+          "nome": "tosa",
+          "data": "05-04-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Nininha",
+      "idade": 3,
+      "raca": "YorkShire",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": []
+    },
+    {
+      "nome": "Whisky",
+      "idade": 8,
+      "raca": "persa",
+      "tipo": "gato",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": []
+    },
+    {
+      "nome": "Sony",
+      "idade": 2,
+      "raca": "Pug",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "31-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Rex",
+      "idade": 1,
+      "raca": "Maltes",
+      "tipo": "cachorro",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    }
+  ]
+}
